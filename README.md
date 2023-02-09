@@ -1,4 +1,4 @@
--👋🏻Hi,i'm ali gharesi fard
+-👋🏻Hi,i'm ali gharesi fard\n
 -🏡i work at home
 -💻i learning python
 -🎸i play guitar some time 
